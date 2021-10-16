@@ -1,0 +1,109 @@
+body{
+  margin:0;
+  text-align:center;
+  font-family:'Merriweather',serif;
+  background-image: url("https://images.unsplash.com/photo-1517999144091-3d9dca6d1e43?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&dl=nick-nice-gPm8h3DS1s4-unsplash.jpg");
+
+}
+h1{
+  margin-top: 0;
+  font-family: 'Sacramento',cursive;
+  color: white;
+}
+.change{
+  font-family: "Montserrat",sans-serif;
+  color: white;
+}
+h3{
+  font-family: "Montserrat",sans-serif;
+  color: white;
+}
+.navbar{
+  height:75px;
+  width: 100%;
+  background-color:#171717;
+  position: fixed;
+}
+.top-container{
+  height: 700px;
+  width: 100%;
+  background-image: url("https://images.unsplash.com/photo-1517999144091-3d9dca6d1e43?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&dl=nick-nice-gPm8h3DS1s4-unsplash.jpg");
+  padding-top:200px;
+
+
+}
+.middle-container{
+  height: 100%;
+  width: 100%;
+  background-image: url("https://images.unsplash.com/photo-1517999144091-3d9dca6d1e43?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&dl=nick-nice-gPm8h3DS1s4-unsplash.jpg");
+}
+.bottom-container{
+  background-image: url("https://images.unsplash.com/photo-1517999144091-3d9dca6d1e43?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&dl=nick-nice-gPm8h3DS1s4-unsplash.jpg");
+  height: 100%;
+  width: 100%;
+
+
+}
+/* .web{
+  text-decoration: underline;
+} */
+
+p{
+  color: white;
+}
+.profile{
+  height:900px;
+}
+.amanpp{
+  position: relative;
+  top: 300px;
+}
+.best{
+   margin: auto 0 auto 0;
+}
+.image{
+  top: 200px;
+  left:30px;
+}
+.profile1{
+  width:=40px;
+  height:40px;
+  position: absolute;
+  left: 30px;
+  top:25px;
+}
+.profile2{
+  position: absolute;
+  left: 80px;
+  top:10px;
+  color: white;
+  font-family: 'Sacramento',cursive;
+
+}
+.nav_home{
+  position: absolute;
+  left:900px;
+  top:10px;
+}
+.nav_about{
+  position: absolute;
+  right:275px;
+  top:10px;
+}
+.nav_work{
+  position: absolute;
+  right:175px;
+  top:10px;
+}
+.nav_contact{
+  position: absolute;
+  right:50px;
+  top:10px;
+}
+a:hover{
+  color: #FF0075;
+
+}
+a{
+  text-decoration: none;
+}
