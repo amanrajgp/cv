@@ -1,0 +1,70 @@
+body{
+  background-image: url("images/back.jpg");
+  margin: 0rem;
+  background-size:86rem;
+}
+
+.navbar{
+
+  height: 2rem;
+  width:100%;
+  background-color: black;
+  position: fixed;
+}
+.buttons{
+  position: absolute;
+  padding-left: 9rem;
+  padding-top: 10rem;
+}
+button{
+  height: 25rem;
+  width: 15rem;
+  background-color: white;
+  margin-right: 2rem
+}
+.s1{
+  background-image: url("images/jugnu.jpg");
+  background-size: 15rem;
+}
+.s2{
+  background-image: url("images/grateful.jpg");
+  background-size: 15rem;
+}
+.s3{
+  background-image: url("images/cold.jpg");
+  background-size: 15rem;
+}
+.s4{
+  background-image: url("images/universe.jpg");
+  background-size: 15rem;
+}
+.s5{
+  background-image: url("images/shiver.jpg");
+  background-size: 15rem;
+}
+.btn1{
+  margin-right: 2rem;
+  display: inline-block;
+  background-color: black;
+  width: 15rem;
+  height:26.7rem;
+}
+.btn2{
+  position: absolute;
+  background-color: white;
+  height: 1.7rem;
+  width: 14.85rem;
+}
+.play{
+  position: absolute;
+  display: inline-block;
+  width: 7.5rem;
+  height: 1.8rem;
+}
+.pause{
+  position: absolute;
+  width: 7.5rem;
+  height: 1.8rem;
+  left:7.5rem;
+
+}
